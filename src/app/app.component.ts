@@ -5,5 +5,5 @@ import { Component } from '@angular/core';
   template: `<div>Hello {{value}}</div>`,
 })
 export class AppComponent {
-  value = 'World! '+ new Date();
+  value = 'World! Current date/time='+ new Date() + ' build date= Built at Tue Oct 24 17:37:03 2023' ;
 }
