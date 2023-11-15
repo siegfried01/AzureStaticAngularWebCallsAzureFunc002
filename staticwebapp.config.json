@@ -11,7 +11,7 @@
                         "registration": {
                             "clientIdSettingName": "AADB2C_PROVIDER_CLIENT_ID",
                             "clientCredential": {
-                                "clientSecretSettingName": "AADB2C_PROVIDER_CLIENT_SECRET",
+                                "clientSecretSettingName": "AADB2C_PROVIDER_CLIENT_SECRET"
                             },
                             "openIdConnectConfiguration": {
                                 "wellKnownOpenIdConfiguration": "https://enterprisedemoorg.b2clogin.com/enterprisedemoorg.onmicrosoft.com/b2c_1_susi/v2.0/.well-known/openid-configuration"
