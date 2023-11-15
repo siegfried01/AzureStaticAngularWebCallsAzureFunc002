@@ -2,7 +2,7 @@
     "routes":[],
     "navigationFallback": {
         "rewrite": "/index.html"
-    }
+    },
     {
         "auth": {
             "identityProviders": {
