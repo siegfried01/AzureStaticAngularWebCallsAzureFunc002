@@ -9,7 +9,7 @@
               "clientSecretSettingName": "AADB2C_PROVIDER_CLIENT_SECRET"
             },
             "openIdConnectConfiguration": {
-              "wellKnownOpenIdConfiguration": "https://enterprisedemoorg.b2clogin.com/enterprisedemoorg.onmicrosoft.com/B2C_1_Frontend_APIM_Totorial_SUSI_002/v2.0/.well-known/openid-configuration"
+              "wellKnownOpenIdConfiguration": "https://enterprisedemoorg.b2clogin.com/enterprisedemoorg.onmicrosoft.com/B2C_1_Frontend_APIM_Totorial_SUSI/v2.0/.well-known/openid-configuration"
             }
           },
           "login": {
