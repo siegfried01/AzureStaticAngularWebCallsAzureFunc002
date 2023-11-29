@@ -103,5 +103,5 @@ import { IdTokenClaims, PromptValue } from '@azure/msal-common';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  value = 'World! Current date/time='+ new Date() + ' build date= Built at Tue Nov 28 18:23:46 2023' ;
+  value = 'AzureStaticAngularWebCallsAzureFunc002/src/app/app.component.ts! Current date/time='+ new Date() + ' build date= Built at Wed Nov 29 11:58:45 2023' ;
 }
